@@ -1,0 +1,22 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "Code-and-beer ten-pin bowling kata",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolePell/codeAndBeerBowlingKata.git"
+  },
+  "author": "Andrew Haines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolePell/codeAndBeerBowlingKata/issues"
+  },
+  "homepage": "https://github.com/NicolePell/codeAndBeerBowlingKata#readme",
+  "private": true,
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
